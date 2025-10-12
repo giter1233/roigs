@@ -1,0 +1,9 @@
+# ninja log v5
+0	9080	1755839426778760764	/home/hbw/Improved-GS/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/simple_knn.o	b68206d4064c918d
+0	14378	1755839432078758763	/home/hbw/Improved-GS/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	14e676a2121d1a63
+0	51698	1755839469388745074	/home/hbw/Improved-GS/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	db1dce70101adca4
+0	8776	1755927917578980166	/home/hbw/improve/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/simple_knn.o	fc7f57e279192d12
+0	13616	1755927922418978494	/home/hbw/improve/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	b879c7d2da4ca48d
+0	45931	1755927954728967162	/home/hbw/improve/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	f3fc9df3dddbc31b
+32	13338	1756387790991841450	/home/hbw/improve/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	b879c7d2da4ca48d
+33	46307	1756387823951842937	/home/hbw/improve/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	f3fc9df3dddbc31b
